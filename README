@@ -1,0 +1,17 @@
+Cache actions provides rules actions for clearing drupal caches.
+
+It currently supports clearing:
+
+* Drupal cache bins
+* CSS/JS cache
+* The cache of specific views
+* The cache of specific panel pages
+* The cache of specific mini panels
+
+Support for panel nodes are coming =)
+
+This module is currently under review here: 
+
+http://drupal.org/node/748850
+
+If you like the idea, then please go there and submit a review.

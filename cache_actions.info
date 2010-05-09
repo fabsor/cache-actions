@@ -1,0 +1,6 @@
+; $Id:$
+name = Cache Actions
+description = This module gives you the ability to clear drupals caches with rules actions.
+dependencies[] = rules
+core = 6.x
+package = Rules
